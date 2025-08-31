@@ -1,7 +1,7 @@
 # 🚁 Drone Delivery Path Optimization using Genetic Algorithms
 
 An optimization project that uses a Genetic Algorithm to find the shortest path (a Hamiltonian cycle) for a delivery drone that must visit multiple cities. This project simulates the classic **Travelling Salesman Problem (TSP)**.
-  ![Main Input Window](screenshots/project_pic.png)
+  ![Main Input Window](images/project_pic.png)
 
 ## 📋 Project Overview
 
@@ -57,7 +57,7 @@ POPULATION_SIZE=10, CROSSING_RATE=0.6, MUTATION_RATE=0.01, and NB_MAX_ITERATIONS
 **Convergence to an Optimal Path**
 The genetic algorithm demonstrated highly effective performance, successfully optimizing the drone's delivery route. The evolution of the best fitness (total distance) across generations shows a clear and significant convergence toward an optimal solution.
 
-  ![Main Input Window](screenshots/fitness_evolution.png)
+  ![Main Input Window](images/fitness_evolution.png)
 
 **Key Result:**
 * The algorithm successfully reduced the total travel distance from an initial ~90 km to a final optimal distance of ~40 km.
