@@ -77,7 +77,7 @@ Drone-Delivery-Optimization/
 │
 ├── Drone_Delivery_Genetic_Algorithm.ipynb  # Main Jupyter Notebook
 ├── images/
-    ├──project_pic.png
+|   ├──project_pic.png
 │   └── fitness_evolution.png                      # Fitness convergence graph
 ├── README.md                                      # This file
 
