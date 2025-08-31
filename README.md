@@ -73,7 +73,7 @@ Total Distance Achieved: 40 km
 ## 📁 Repository Structure
 
 ```
-Drone-Delivery-Optimization/
+Drone-Delivery-Optimization-using-Genetic-Algorithm/
 │
 ├── Drone_Delivery_Genetic_Algorithm.ipynb  # Main Jupyter Notebook
 ├── images/
